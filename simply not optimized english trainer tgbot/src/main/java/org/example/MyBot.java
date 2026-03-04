@@ -50,12 +50,12 @@ public class MyBot extends TelegramLongPollingBot {
 
     @Override
     public String getBotUsername() {
-        return "3";
+        return ""; // Название бота из @BotFather
     }
 
     @Override
     public String getBotToken() {
-        return "8785779584:AAG50a4Tl_1Q6sc1c9n0Z9O37PQe-5VhkxA";
+        return ""; // Токен бота из @BotFather
     }
 
     public static class Word {

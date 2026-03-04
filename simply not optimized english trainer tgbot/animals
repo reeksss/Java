@@ -1,0 +1,300 @@
+Собака:Dog
+Кошка:Cat
+Корова:Cow
+Лошадь:Horse
+Свинья:Pig
+Овца:Sheep
+Коза:Goat
+Курица:Chicken
+Петух:Rooster
+Цыпленок:Chick
+Утка:Duck
+Гусь:Goose
+Индюк:Turkey
+Кролик:Rabbit
+Осёл:Donkey
+Верблюд:Camel
+Лама:Llama
+Як:Yak
+Буйвол:Buffalo
+Крыса:Rat
+Мышь:Mouse
+Морская свинка:Guinea Pig
+Хомяк:Hamster
+Попугай:Parrot
+Канарейка:Canary
+Голубь:Pigeon
+Пчела:Bee
+Северный олень:Reindeer
+Лев:Lion
+Тигр:Tiger
+Леопард:Leopard
+Гепард:Cheetah
+Пантера:Panther
+Ягуар:Jaguar
+Слон:Elephant
+Жираф:Giraffe
+Зебра:Zebra
+Носорог:Rhinoceros
+Бегемот:Hippopotamus
+Медведь:Bear
+Белый медведь:Polar Bear
+Панда:Panda
+Волк:Wolf
+Лиса:Fox
+Шакал:Jackal
+Гиена:Hyena
+Обезьяна:Monkey
+Шимпанзе:Chimpanzee
+Горилла:Gorilla
+Орангутан:Orangutan
+Гиббон:Gibbon
+Лемур:Lemur
+Бабуин:Baboon
+Мандрил:Mandrill
+Ленивец:Sloth
+Муравьед:Anteater
+Броненосец:Armadillo
+Дикобраз:Porcupine
+Еж:Hedgehog
+Кенгуру:Kangaroo
+Коала:Koala
+Вомбат:Wombat
+Утконос:Platypus
+Ехидна:Echidna
+Динго:Dingo
+Тасманский дьявол:Tasmanian Devil
+Опоссум:Opossum
+Скунс:Skunk
+Енот:Raccoon
+Барсук:Badger
+Выдра:Otter
+Бобр:Beaver
+Норка:Mink
+Куница:Marten
+Соболь:Sable
+Горностай:Stoat
+Ласка:Weasel
+Хорек:Ferret
+Росомаха:Wolverine
+Койот:Coyote
+Рысь:Lynx
+Каракал:Caracal
+Сервал:Serval
+Манул:Pallas's Cat
+Песец:Arctic Fox
+Красная панда:Red Panda
+Енотовидная собака:Raccoon Dog
+Сурикат:Meerkat
+Мангуст:Mongoose
+Белка:Squirrel
+Бурундук:Chipmunk
+Сурок:Groundhog
+Летяга:Flying Squirrel
+Лось:Moose
+Олень:Deer
+Благородный олень:Red Deer
+Лань:Fallow Deer
+Косуля:Roe Deer
+Кабарга:Musk Deer
+Антилопа:Antelope
+Газель:Gazelle
+Спрингбок:Springbok
+Гну:Wildebeest
+Орикс:Oryx
+Бонго:Bongo
+Канна:Eland
+Импала:Impala
+Вилорог:Pronghorn
+Тапир:Tapir
+Африканский слон:African Elephant
+Индийский слон:Indian Elephant
+Мамонт:Mammoth
+Карликовый бегемот:Pygmy Hippopotamus
+Белый носорог:White Rhino
+Черный носорог:Black Rhino
+Индийский носорог:Indian Rhino
+Рыжий кенгуру:Red Kangaroo
+Серый кенгуру:Grey Kangaroo
+Валлаби:Wallaby
+Трехпалый ленивец:Three-toed Sloth
+Гигантский муравьед:Giant Anteater
+Девятипоясный броненосец:Nine-banded Armadillo
+Панголин:Pangolin
+Североамериканский дикобраз:North American Porcupine
+Ушастый еж:Long-eared Hedgehog
+Тенрек:Tenrec
+Землеройка:Shrew
+Выхухоль:Desman
+Крот:Mole
+Звездонос:Star-nosed Mole
+Летучая мышь:Bat
+Крылан:Flying Fox
+Вампир:Vampire Bat
+Подковонос:Horseshoe Bat
+Бурый медведь:Brown Bear
+Гризли:Grizzly Bear
+Медведь-кадьяк:Kodiak Bear
+Американский черный медведь:American Black Bear
+Барибал:Baribal
+Гималайский медведь:Himalayan Brown Bear
+Очковый медведь:Spectacled Bear
+Малайский медведь:Sun Bear
+Губач:Sloth Bear
+Большая панда:Giant Panda
+Бенгальский тигр:Bengal Tiger
+Амурский тигр:Amur Tiger
+Индийский тигр:Indian Tiger
+Суматранский тигр:Sumatran Tiger
+Африканский лев:African Lion
+Азиатский лев:Asiatic Lion
+Африканский леопард:African Leopard
+Дальневосточный леопард:Amur Leopard
+Снежный барс:Snow Leopard
+Черная пантера:Black Panther
+Пума:Puma
+Мексиканская пума:Mexican Mountain Lion
+Канадская рысь:Canada Lynx
+Иберийская рысь:Iberian Lynx
+Рыжая рысь:Bobcat
+Оцелот:Ocelot
+Марги:Margay
+Онцилла:Oncilla
+Кошка-рыболов:Fishing Cat
+Кошка Жоффруа:Geoffroy's Cat
+Андская кошка:Andean Cat
+Барханный кот:Sand Cat
+Черноногая кошка:Black-footed Cat
+Лесная кошка:Wildcat
+Домашняя кошка:Domestic Cat
+Страус:Ostrich
+Эму:Emu
+Нанду:Rhea
+Казуар:Cassowary
+Киви:Kiwi
+Пингвин:Penguin
+Императорский пингвин:Emperor Penguin
+Королевский пингвин:King Penguin
+Папуанский пингвин:Gentoo Penguin
+Адели:Adelie Penguin
+Галапагосский пингвин:Galapagos Penguin
+Орёл:Eagle
+Беркут:Golden Eagle
+Орлан-белохвост:White-tailed Eagle
+Белоголовый орлан:Bald Eagle
+Ястреб:Hawk
+Тетеревятник:Northern Goshawk
+Перепелятник:Eurasian Sparrowhawk
+Канюк:Buzzard
+Сокол:Falcon
+Сапсан:Peregrine Falcon
+Кречет:Gyrfalcon
+Балобан:Saker Falcon
+Пустельга:Kestrel
+Коршун:Kite
+Красный коршун:Red Kite
+Черный коршун:Black Kite
+Скопа:Osprey
+Гриф:Vulture
+Гриф индейка:Turkey Vulture
+Черный гриф:Black Vulture
+Сип:Griffon Vulture
+Кондор:Condor
+Андский кондор:Andean Condor
+Сова:Owl
+Филин:Eagle Owl
+Белая сова:Snowy Owl
+Серая неясыть:Tawny Owl
+Ушастая сова:Long-eared Owl
+Болотная сова:Short-eared Owl
+Сыч:Owlet
+Домовый сыч:Little Owl
+Воробьиный сыч:Pygmy Owl
+Мохноногий сыч:Boreal Owl
+Ястребиная сова:Northern Hawk Owl
+Сипуха:Barn Owl
+Ворон:Raven
+Ворона:Crow
+Грач:Rook
+Галка:Jackdaw
+Сорока:Magpie
+Сойка:Jay
+Кедровка:Nutcracker
+Кукушка:Cuckoo
+Дятел:Woodpecker
+Большой пестрый дятел:Great Spotted Woodpecker
+Зеленый дятел:Green Woodpecker
+Черный дятел:Black Woodpecker
+Вертишейка:Wryneck
+Соловей:Nightingale
+Дрозд:Thrush
+Черный дрозд:Blackbird
+Певчий дрозд:Song Thrush
+Рябинник:Fieldfare
+Зарянка:European Robin
+Малиновка:European Robin
+Синица:Tit
+Большая синица:Great Tit
+Лазоревка:Blue Tit
+Московка:Coal Tit
+Гаичка:Willow Tit
+Воробей:Sparrow
+Домовый воробей:House Sparrow
+Полевой воробей:Eurasian Tree Sparrow
+Зяблик:Chaffinch
+Юрок:Brambling
+Щегол:Goldfinch
+Чиж:Siskin
+Коноплянка:Linnet
+Чечетка:Redpoll
+Клест:Crossbill
+Клест-еловик:Red Crossbill
+Клест-сосновик:White-winged Crossbill
+Снегирь:Bullfinch
+Свиристель:Waxwing
+Иволга:Oriole
+Ласточка:Swallow
+Деревенская ласточка:Barn Swallow
+Воронок:House Martin
+Береговушка:Sand Martin
+Стриж:Swift
+Черный стриж:Common Swift
+Козодой:Nightjar
+Удод:Hoopoe
+Зимородок:Kingfisher
+Щурка:Bee-eater
+Золотистая щурка:European Bee-eater
+Сизоворонка:Roller
+Аист:Stork
+Белый аист:White Stork
+Черный аист:Black Stork
+Марабу:Marabou
+Журавль:Crane
+Серый журавль:Common Crane
+Стерх:Siberian Crane
+Японский журавль:Red-crowned Crane
+Цапля:Heron
+Серая цапля:Grey Heron
+Белая цапля:Great Egret
+Выпь:Bittern
+Кваква:Night Heron
+Фламинго:Flamingo
+Пеликан:Pelican
+Розовый пеликан:Great White Pelican
+Кудрявый пеликан:Dalmatian Pelican
+Баклан:Cormorant
+Большой баклан:Great Cormorant
+Лебедь:Swan
+Лебедь-шипун:Mute Swan
+Лебедь-кликун:Whooper Swan
+Малый лебедь:Bewick's Swan
+Гусь:Goose
+Серый гусь:Greylag Goose
+Белолобый гусь:Greater White-fronted Goose
+Гуменник:Bean Goose
+Пискулька:Lesser White-fronted Goose
+Казарка:Brant Goose
+Черная казарка:Brent Goose
+Утка:Duck
+Кряква:Mallard
+Чирок:Teal

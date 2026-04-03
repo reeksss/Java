@@ -31,10 +31,9 @@ public class MyBot extends TelegramLongPollingBot {
             long chatId = update.getMessage().getChatId();
             String userFirstName = update.getMessage().getFrom().getFirstName();
 
-            //Если пишет админ и хочет ответить пользователю
             if (String.valueOf(chatId).equals(ADMIN_ID) && messageText.startsWith("/reply")) {
                 handleAdminReply(messageText);
-                return; //Выходим, чтобы бот не записывал твой ответ сам себе в логи
+                return; 
             }
 
             //Если пишет ОБЫЧНЫЙ ЮЗЕР
@@ -54,10 +53,10 @@ public class MyBot extends TelegramLongPollingBot {
         }
     }
 
-    //Метод для обработки твоего ответа через команду /reply
+    //Метод для обработки ответа через команду /reply
     private void handleAdminReply(String adminText) {
         try {
-            //Разбиваем строку "/reply 1234567 Текст" по пробелам
+            //Разбиваем строку по пробелам
             String[] parts = adminText.split(" ", 3);
             if (parts.length < 3) {
                 sendResponse(Long.parseLong(ADMIN_ID), "Ошибка! Пиши так: /reply [ID] [Текст]");
